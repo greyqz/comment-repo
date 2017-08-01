@@ -1,4 +1,12 @@
 # comment-repo
-Repo for Gitment comments.
+Repository for Gitment comments.
 
-Most comments are in Issue page.
+Comments are in **Issues** page.
+
+-----
+
+## English blog / Student daily
+
+Site on GitHub pages: https://greyqz.github.io/
+
+(A blog based in Hexo and hexo-theme-gandalfr, licensed under CC BY-NC-SA 3.0.)
